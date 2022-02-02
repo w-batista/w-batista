@@ -6,14 +6,10 @@
   
 ### Aqui vai um pequeno resumo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Atualmente estou trabalhando mais em aplicações web.
+- 🌱 Gosto de me manter em constante aprendizado.
+- 👯 Trabalhar em equipe, para mim é uma via de mão dupla, para ajudar e ser ajudado.
+- 📫 Se quiser entrar em contato, envie e-mail para: wapomco@gmail.com.
 
 <br>
 
@@ -46,6 +42,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Angular](https://img.shields.io/badge/-Angular-%23E44D27?style=flat-square&logo=angular&logoColor=ffffff)
+![.Net](http://img.shields.io/badge/-dotnet-007ACC?style=flat-square&logo=dotnet&logoColor=ffffff)  
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Atom](https://img.shields.io/badge/-Atom-31df80?style=flat-square&logo=atom&logoColor=000000)
